@@ -9,7 +9,8 @@
 ## Instructions to Run
 - Clone this Repository
 - Change the working directory to ```Source Code```
-- Run the file using ```python3 <filename>```
+ -> python main.py -i [image_name]
+    -> python main.py -i fire.jpg
 
 ## Contrubitions
 - Feedback, Suggestions and Pull requests are welcome.
@@ -20,5 +21,4 @@
 
 ## To run the scripts
 
-    -> python main.py -i [image_name]
-    -> python main.py -i fire.jpg
+   
