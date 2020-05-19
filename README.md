@@ -19,6 +19,5 @@
 - Enter into this power shell if using windows PS G:\Fire-Detection\Source Code>
 - If working on Mac go to Source Code directory from the terminal
 
-## To run the scripts
 
    
